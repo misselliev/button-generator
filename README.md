@@ -5,7 +5,7 @@
 
 Make your styling easier using a random button generator.
 
-![alt text](docs/main.png)
+![alt text](main.png)
 
 ## ✨ Live Demo
 

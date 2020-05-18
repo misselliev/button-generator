@@ -20,6 +20,10 @@ body {
   flex-direction: column;
 }
 
+.main {
+  margin-top: 8vh;
+}
+
 .btn-get {
   padding: 1rem;
   margin-bottom: 3rem;
