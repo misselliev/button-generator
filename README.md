@@ -5,7 +5,7 @@
 
 Make your styling easier using a random button generator.
 
-![alt text](main.png)
+![alt text](button.gif)
 
 ## ✨ Live Demo
 
