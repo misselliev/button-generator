@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css?family=Dosis|Josefin+Sans|Karla|Lato|Nunito|Oswald|Roboto&display=swap');
+h1 {
+  text-align: center;
+  color: #F76F8E;
+  font-family: '', cursive;
+  font-size: 2.5rem;
+  text-shadow: 0.5px 0.6px grey;
+  font-weight: bold;
+}
+
+body {
+  background-color: #FFEAD0;
+}
+
+.container {
+  margin: auto;
+  max-width: 50vw;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.btn-get {
+  padding: 1rem;
+  margin-bottom: 3rem;
+  border-radius: 0.8rem;
+  background-color: #ECCBD9;
+  font-size: 1rem;
+  border: #F08080;
+  color: #96616B;
+  box-shadow: 1px 1px grey;
+  width: 20rem;
+  height: 3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-self: center;
+}
+
+#show, #code {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-self: center;
+}
+
+#code {
+  border: 1px solid grey;
+  max-width: 30vw;
+  background-color: white;
+  padding: 1rem;
+  margin: 3rem;
+  border-radius: 10px;
+}
