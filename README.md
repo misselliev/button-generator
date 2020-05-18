@@ -9,7 +9,7 @@ Make your styling easier using a random button generator.
 
 ## ✨ Live Demo
 
-You can look at it [here](https://codepen.io/miss_elliev/pen/NWGYozw).
+You can look at it [here](https://misselliev.github.io/button-generator/) or see the codepen version [here](https://codepen.io/miss_elliev/pen/NWGYozw).
 
 
 ## 🚀 Getting Started
